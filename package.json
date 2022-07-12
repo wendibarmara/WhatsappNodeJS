@@ -1,0 +1,26 @@
+{
+  "name": "mysocketio",
+  "version": "1.0.0",
+  "description": "contoh socket buat WA",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket",
+    "WA"
+  ],
+  "author": "Wendi Barmara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "http": "^0.0.1-security",
+    "jquery": "^3.6.0",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "socket-io": "^1.0.0",
+    "socket.io": "^4.5.1",
+    "whatsapp-web.js": "^1.17.0"
+  }
+}
