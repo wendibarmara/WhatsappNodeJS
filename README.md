@@ -1,7 +1,7 @@
-This is example Send WhatsApp using component 
+This is example Send WhatsApp using  
 - Node JS
 - Socket.IO
-- WhatsApp Web JS
+- WhatsApp Web JS 
 
 run : 
 > npm start
