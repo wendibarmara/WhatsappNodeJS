@@ -1,6 +1,8 @@
-# WhatsappNodeJS
-Example WhatsApp Web JS using Node JS<br>
-#step <br>
-step 1 > npm install  <br>
-step 2 > node server.js
+This is example Send WhatsApp using component 
+- Node JS
+- Socket.IO
+- WhatsApp Web JS
+
+run : 
+> npm start
 
